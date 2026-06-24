@@ -46,6 +46,10 @@ Open the main notebook in Jupyter:
 jupyter notebook notebooks/
 ```
 
+## Author
+
+Oscar Sotelo — [GitHub](https://github.com/edusnow02)
+
 ## Status
 
 🚧 In progress
